@@ -111,6 +111,6 @@
     path = .dotfiles/git/gitaliases
 [user]
     name = Ming Teo
-    email = ming.teo@foxsports.com.au
+    email = work@mingteo.com
 #[commit]
 #    template = /Users/ming.teo/.stCommitMsg

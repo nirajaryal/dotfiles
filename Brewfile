@@ -50,8 +50,10 @@ cask 'rocket'
 # Core applications
 cask 'flux'
 cask 'google-chrome'
+cask 'handbrake'
 cask 'quicksilver'
 cask 'the-unarchiver'
+cask 'transmission'
 #cask 'aerial'
 #cask 'alfred'
 #cask 'appcleaner'
@@ -79,9 +81,10 @@ cask 'dropbox'
 cask 'google-backup-and-sync'
 
 # Chat applications
+cask 'skype'
 cask 'slack'
+cask 'viber'
 cask 'whatsapp'
-#cask 'skype'
 #cask 'yakyak'
 
 # Music applications
