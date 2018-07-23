@@ -51,11 +51,11 @@ cask 'rocket'
 caks 'avast-security'
 cask 'flux'
 cask 'google-chrome'
-cask 'handbrake'
 cask 'malwarebytes'
 cask 'quicksilver'
 cask 'the-unarchiver'
-cask 'transmission'
+#cask 'handbrake'
+#cask 'transmission'
 #cask 'aerial'
 #cask 'alfred'
 #cask 'appcleaner'
@@ -79,14 +79,16 @@ cask 'transmission'
 #cask 'zeplin'
 
 # File storage
-cask 'dropbox'
+#cask 'dropbox'
 cask 'google-backup-and-sync'
 
 # Chat applications
 cask 'skype'
-cask 'slack'
-cask 'viber'
-cask 'whatsapp'
+cask 'zoomus'
+#cask 'electronic-wechat'
+#cask 'slack'
+#cask 'viber'
+#cask 'whatsapp'
 #cask 'yakyak'
 
 # Music applications
@@ -104,14 +106,14 @@ cask 'vlc'
 #cask 'subtitles'
 
 # Developer Applications
-cask 'charles'
-cask 'cyberduck'
-cask 'firefox'
-cask 'insomnia'
 cask 'iterm2'
-cask 'sublime-text'
-cask 'virtualbox'
 cask 'visual-studio-code'
+#cask 'charles'
+#cask 'cyberduck'
+#cask 'firefox'
+#cask 'insomnia'
+#cask 'sublime-text'
+#cask 'virtualbox'
 #cask 'dash'
 #cask 'datagrip'
 #cask 'gitup'
@@ -124,9 +126,9 @@ cask 'visual-studio-code'
 #cask 'webstorm'
 
 # Mas
-mas '1Password', id: 443987910
 mas 'WeChat', id: 836500024
-mas 'Xcode', id: 497799835
+#mas '1Password', id: 443987910
+#mas 'Xcode', id: 497799835
 #mas 'Xcode', id: 497799835
 #mas 'Fantastical 2', id: 975937182
 #mas 'Airmail 3', id: 918858936
