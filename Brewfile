@@ -48,9 +48,11 @@ cask 'caskroom/fonts/font-hack'
 cask 'rocket'
 
 # Core applications
+caks 'avast-security'
 cask 'flux'
 cask 'google-chrome'
 cask 'handbrake'
+cask 'malwarebytes'
 cask 'quicksilver'
 cask 'the-unarchiver'
 cask 'transmission'
