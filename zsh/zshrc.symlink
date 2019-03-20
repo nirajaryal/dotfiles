@@ -93,6 +93,12 @@ alias nrbw='echo "npm run build && npm run watch" && echo "" && npm run build &&
 alias nrw='echo "npm run watch" && echo "" && npm run watch'
 alias getperms='echo "stat -f \"%OLp\"" && echo "" && stat -f "%OLp"'
 
+
+# alias nvm='nocorrect nvm'
+
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
 [[ -s "$HOME/.avn/bin/avn.sh" ]] && source "$HOME/.avn/bin/avn.sh" # load avn
 export PATH="/usr/local/opt/icu4c/bin:$PATH"
 export PATH="/usr/local/opt/icu4c/sbin:$PATH"

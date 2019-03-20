@@ -151,6 +151,9 @@ setup_gitconfig
 install_dotfiles
 install_vim
 
+# Things and stuff for nvm
+mkdir -p "$HOME/.nvm"
+
 # If we're on a Mac, let's install and setup homebrew.
 if [ "$(uname -s)" == "Darwin" ]
 then

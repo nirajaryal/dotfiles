@@ -7,16 +7,17 @@ brew 'ack'
 brew 'coreutils'
 brew 'ctags'
 brew 'doxygen'
-brew 'ffmpeg'
+# brew 'ffmpeg'
 brew 'grc'
-brew 'http-server'
+# brew 'http-server'
 brew 'imagemagick'
 brew 'jp2a'
 brew 'jq'
 brew 'libgit2'
-brew 'mackup'
+# brew 'mackup'
 brew 'mas'
-brew 'n'
+# brew 'n'
+brew 'nvm'
 brew 'neovim'
 brew 'node'
 brew 'readline'
@@ -26,7 +27,7 @@ brew 'trash'
 brew 'unrar'
 brew 'wget'
 brew 'yarn'
-brew 'youtube-dl'
+# brew 'youtube-dl'
 brew 'zplug'
 #brew 'go'
 #brew 'postgresql'
@@ -37,7 +38,7 @@ brew 'zplug'
 #brew 'maven'
 
 # Python
-brew 'python'
+# brew 'python'
 brew 'python3'
 
 # Ruby
@@ -75,14 +76,14 @@ cask 'the-unarchiver'
 #cask 'zeplin'
 
 # File storage
-cask 'dropbox'
-cask 'google-backup-and-sync'
+# cask 'dropbox'
+# cask 'google-backup-and-sync'
 
 # Chat applications
 cask 'signal'
 cask 'slack'
 cask 'whatsapp'
-cask 'zoomus'
+# cask 'zoomus'
 #cask 'skype'
 #cask 'yakyak'
 
@@ -92,9 +93,9 @@ cask 'zoomus'
 #cask 'soundcleod'
 
 # Entertainment applications
-cask 'marshallofsound-google-play-music-player'
+# cask 'marshallofsound-google-play-music-player'
 cask 'vlc'
-cask 'mplayer-osx-extended'
+# cask 'mplayer-osx-extended'
 #cask 'deluge'
 #cask 'google-plus-auto-backup'
 #cask 'jadengeller-helium'
@@ -104,12 +105,13 @@ cask 'mplayer-osx-extended'
 
 # Developer Applications
 cask 'charles'
-cask 'cyberduck'
+cask 'spectacle'
+# cask 'cyberduck'
 cask 'docker'
 cask 'firefox'
 cask 'insomnia'
-cask 'iterm2'
-cask 'sublime-text'
+# cask 'iterm2'
+# cask 'sublime-text'
 cask 'virtualbox'
 cask 'visual-studio-code'
 #cask 'dash'
@@ -126,8 +128,8 @@ cask 'visual-studio-code'
 # Mas
 mas '1Password', id: 443987910
 mas 'Battery Monitor: Health, Info', id: 836505650
-mas 'BetterSnapTool', id: 417375580
-mas 'WeChat', id: 836500024
+# mas 'BetterSnapTool', id: 417375580
+# mas 'WeChat', id: 836500024
 mas 'Xcode', id: 497799835
 #mas 'Xcode', id: 497799835
 #mas 'Fantastical 2', id: 975937182

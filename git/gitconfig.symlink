@@ -110,7 +110,7 @@
 [include]
     path = .dotfiles/git/gitaliases
 [user]
-    name = Ming Teo
-    email = ming.teo@foxsports.com.au
+    name = Niraj Aryal
+    email = niraj.aryal@foxsports.com.au
 #[commit]
 #    template = /Users/ming.teo/.stCommitMsg
